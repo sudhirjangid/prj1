@@ -1,0 +1,40 @@
+1. back end testing
+2.browser compatibility testing
+3.BVA
+4.GUI Testing
+5.Volume Testing
+6.load testing
+7.integration testing
+8.error handling testing
+9.functionality testing - profile pic 
+10.multiple users
+11.usability - more than one item in cart
+12.security - no. of times wrong login 
+13.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.softwaretestinghelp.com/sample-test-cases-testing-web-desktop-applications/
+https://artoftesting.com/manualTesting/ecommerce.html
+https://www.testingexcellence.com/testing-e-commerce-websites/
+https://www.guru99.com/testing-e-commerce-applications.html
+https://dzone.com/articles/8-cases-to-skyrocket-your-e-commerce-website-testi
+https://www.softwaretesterfriend.com/manual-testing/e-commerce-website-test-cases/
+https://khyatisehgal.wordpress.com/2017/02/16/functional-test-cases-of-shopping-cart/
+https://www.guru99.com/performance-testing.html
