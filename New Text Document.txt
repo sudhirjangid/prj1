@@ -1,40 +1,26 @@
-1. back end testing
-2.browser compatibility testing
-3.BVA
-4.GUI Testing
-5.Volume Testing
-6.load testing
-7.integration testing
-8.error handling testing
-9.functionality testing - profile pic 
-10.multiple users
-11.usability - more than one item in cart
-12.security - no. of times wrong login 
-13.
+1. Crash - screenshot
+2. Forgot password not working - functionality		
+3. Error Handling Errors - Screenshot Server Hang up
+4. First Name Should Accept only 3-30  --> Fails 
+5. Syntatic Defect - passwd 
+6. Password Field --> Fails
+7. Sort By --> Fails
+8. Catalog Filter Not Working
+9. 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://www.softwaretestinghelp.com/sample-test-cases-testing-web-desktop-applications/
-https://artoftesting.com/manualTesting/ecommerce.html
-https://www.testingexcellence.com/testing-e-commerce-websites/
-https://www.guru99.com/testing-e-commerce-applications.html
-https://dzone.com/articles/8-cases-to-skyrocket-your-e-commerce-website-testi
-https://www.softwaretesterfriend.com/manual-testing/e-commerce-website-test-cases/
-https://khyatisehgal.wordpress.com/2017/02/16/functional-test-cases-of-shopping-cart/
-https://www.guru99.com/performance-testing.html
+Passed Test Case:
+Back End Testing
+Browser Compatibility Testing
+First Name : BVA
+Password : Equivalence Partitioning
+Security Testing : it should get blocked , composition of all 
+Usability : More than one items in the cart
+Load Testing 
+Multiple Users 
+GUI : To check whether all the error messages are in red Color
+Drop-down fields should have the first entry as blank or text like 'Select'
+Check if correct data is getting saved in the database upon successful page submit.
+Check the page load on slow connections.
